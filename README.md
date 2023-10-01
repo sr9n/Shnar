@@ -6,6 +6,6 @@
     <title>Shnar</title>
 </head>
 <body>
-    <p>Welcome to my project my poject is not here come back later</p>
+    <p style="background-color: red;">Welcome to my project my poject is not here come back later</p>
 </body>
 </html>
